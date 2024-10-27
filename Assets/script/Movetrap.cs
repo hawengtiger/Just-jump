@@ -7,7 +7,7 @@ public class Movetrap : MonoBehaviour
     // Start is called before the first frame update
     public float speed = 1f;
     public GameObject[] target;
-
+    int i = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,16 +17,9 @@ public class Movetrap : MonoBehaviour
 
     void Update()
     {
-        foreach (GameObject target in target)
+        foreach (GameObject t in target)
         {
-            target.transform.Translate(Vector2.up * speed * Time.deltaTime);
-        }
-    }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("destroy"))
-        {
-            Destroy(gameObject);
+            t.transform.Translate(Vector2.up * speed * Time.deltaTime);
         }
     }
 }

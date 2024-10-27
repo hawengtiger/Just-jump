@@ -305,11 +305,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
+    m_FontSize: 11
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -317,7 +317,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Get out of here     >>
+  m_Text: Get out of here >>
 --- !u!222 &239960013
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -576,7 +576,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6.866913, y: 64.68906}
+  m_AnchoredPosition: {x: -34, y: 53}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 1.4688206, y: 0.5}
 --- !u!114 &1446639914
@@ -601,8 +601,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: I never gave a chance to a coward lol
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
+  m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -626,8 +626,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -834,7 +834,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2016064799}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 80ae0c99f742dcf4d93a1187d557dce0, type: 3}
+  m_Script: {fileID: 11500000, guid: 823191c28d09c334ebe36f1da9b27aaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &2016064802
@@ -882,7 +882,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2016064801}
-        m_TargetAssemblyTypeName: NextScenes_Start, Assembly-CSharp
+        m_TargetAssemblyTypeName: NextScenes_GoodBye, Assembly-CSharp
         m_MethodName: SwitchSceneOnClick
         m_Mode: 1
         m_Arguments:

@@ -26,15 +26,15 @@ public class Monster_Hp : MonoBehaviour
             Debug.Log("ddddd");
             hp.TakeDmg(dmg);
         }
-        if(other.gameObject.CompareTag("water"))
+        if (other.gameObject.CompareTag("water"))
         {
             float dmg = 1.2f;
             Debug.Log("water_die");
             hp.TakeDmg(dmg);
         }
-        if (other.gameObject.CompareTag("snowman"))
+        if (other.gameObject.CompareTag("Trap2"))
         {
-            SceneManager.LoadScene("Snowman");
+        SceneManager.LoadScene("Over1");
         }
     }
 }

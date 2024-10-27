@@ -208,7 +208,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 239532257}
-        m_TargetAssemblyTypeName: NextScenes_Start, Assembly-CSharp
+        m_TargetAssemblyTypeName: NextScenes_Start1, Assembly-CSharp
         m_MethodName: SwitchSceneOnClick
         m_Mode: 1
         m_Arguments:
@@ -266,7 +266,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 239532252}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 80ae0c99f742dcf4d93a1187d557dce0, type: 3}
+  m_Script: {fileID: 11500000, guid: a190303be588973419b42213f5dd3aa9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &812488912
@@ -577,7 +577,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
@@ -658,7 +658,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
     m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0

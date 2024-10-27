@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Move : MonoBehaviour
 {
@@ -36,6 +37,18 @@ public class Move : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             jump = false;
+        }
+        if (other.gameObject.CompareTag("snowman"))
+        {
+            SceneManager.LoadScene("Snowman");
+        }
+        if (other.gameObject.CompareTag("flag"))
+        {
+            SceneManager.LoadScene("win");
+        }
+        if (other.gameObject.CompareTag("lv2"))
+        {
+            SceneManager.LoadScene("lv2");
         }
     }
 }

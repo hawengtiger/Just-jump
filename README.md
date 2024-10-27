@@ -1,2 +1,0 @@
-# Just-jump
-game

@@ -4,14 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Monster
-  - CoinTile
-  - Ground
   - Trap
-  - water
   - coin
-  - snowman
+  - Ground
   - destroy
+  - water
+  - snowman
+  - Monster
+  - flag
+  - lv2
+  - Trap2
   layers:
   - Default
   - TransparentFX
