@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class Quit : MonoBehaviour
 {
     public Text timeText;
-    private int time = 3;
+    private int time = 5;
     // Start is called before the first frame update
     void Start()
     {

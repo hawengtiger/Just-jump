@@ -51,7 +51,7 @@ public class InputCheck : MonoBehaviour
             yield return new WaitForSeconds(1f);               // 1초 대기
             time--;                                            // 1씩 감소
         }
-            SceneManager.LoadScene("Start");
+        SceneManager.LoadScene("Start");
         // 카운트다운이 끝나면 씬 전환
     }
 }
