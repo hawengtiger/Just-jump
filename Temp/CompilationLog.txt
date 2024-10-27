@@ -1,0 +1,28 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-14cd97b3734c2ac47b2cf1310f7759df
+# Starting compiling UnityEngine.UI.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a04a3b6134a3ba94fbdb4a0afd5244b7
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f5ca10aacedd47846afe38134d4fdb4e
+# Starting compiling Unity.2D.PixelPerfect.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0f4c49c386d099040ae431bff12adfa4
+# Starting compiling Unity.Timeline.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b0d6a5a16d5e449429aa8db87cdb3eb3
+# Starting compiling Unity.TextMeshPro.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-abefdb6266a5e524188c7e96454541df
+# Starting compiling Unity.Mathematics.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1c1c0bb82c9df0f4bb0fd7eb7f620ffe
+# Starting compiling Unity.2D.IK.Runtime.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-50a2d65e6f92e574f97d74589a56e70f
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7c781ef36d545c64190de8c9914d0058
+# Starting compiling Unity.2D.Common.Runtime.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0278ee143a695154d915bffa51908323
+# Starting compiling Cinemachine.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9434db256c803ba458fcafffa395bc36
+# Starting compiling Unity.2D.Animation.Runtime.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-43cad18d00ed54d4baa93e5a6bf0e091
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a91f6c5f76e97214aa5e90aafa1b6155
+# Starting compiling Assembly-CSharp.dll
+D:\새 폴더 (2)\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4b4ca955e934a1f43aa2cf0e3d70a95a

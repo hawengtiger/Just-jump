@@ -71768,7 +71768,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: I'm Coward XP
+  m_Text: I'm C  ward XP
 --- !u!222 &1709776827
 CanvasRenderer:
   m_ObjectHideFlags: 0
